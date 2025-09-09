@@ -10,3 +10,19 @@ padding: 0;
 overflow: hidden;
 background-color: coral;
 }
+
+ul li{
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul li a :hover{
+   background-color: aqua;
+}
