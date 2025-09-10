@@ -1,6 +1,6 @@
 body{
     background-color: rgb(255, 206, 230);
-    color: rgb(162, 188, 237);
+    color: rgb(0, 0, 0);
 }
 
 ul{
@@ -8,7 +8,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: rgb(240, 83, 217);
+background-color: rgb(140, 174, 238);
 }
 
 ul li{
