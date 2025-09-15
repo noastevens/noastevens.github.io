@@ -31,9 +31,12 @@ ul li a.active {
     background-color: black;
 }
 
+
+
 .foto {
     width: 300px;
     height: auto;
+    float: right;
     display: block;
-    margin-top: 10px;
+    margin-left: 20px;
 }
