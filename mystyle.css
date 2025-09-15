@@ -30,3 +30,9 @@ ul li a:hover {
 ul li a.active {
     background-color: black;
 }
+
+.foto {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
