@@ -39,3 +39,45 @@ ul li a.active {
     float: right;
     margin-left: 50px;
 }
+
+body {
+    font-family: arial, sans-serif;
+    background-color: rgb(255, 206, 230);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba (0,0,0,0,1);
+}
+
+h1, h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+nav {
+    background-color: #90caf9;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+text-decoration: underline;
+}
