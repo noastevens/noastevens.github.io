@@ -34,9 +34,8 @@ ul li a.active {
 
 
 .foto {
-    width: 300px;
+    width: 250px;
     height: auto;
     float: right;
-    display: block;
     margin-left: 20px;
 }
