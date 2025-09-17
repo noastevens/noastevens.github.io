@@ -36,3 +36,11 @@ ul li a.active {
     width: 25%;
     height: 25%;
 }
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
