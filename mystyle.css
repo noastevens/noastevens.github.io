@@ -39,12 +39,12 @@ ul li a.active {
 }
 
 .homepagina {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #4CAF50;
+    padding: 8px;
 }
+
 
 .hometitel{
     margin-left: 20px;
