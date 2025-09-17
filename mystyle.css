@@ -37,7 +37,7 @@ ul li a.active {
     height: 25%;
 }
 
-div {
+.homepagina {
   background-color: lightgrey;
   width: 300px;
   border: 15px solid green;
