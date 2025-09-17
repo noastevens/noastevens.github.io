@@ -40,6 +40,20 @@ ul li a.active {
     margin-left: 20px;
 }
 
+.Gezin {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin-left: 20px;
+}
+
+.Vrienden {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin-left: 20px;
+}
+
 .homepagina {
     height: 80px;
     width: 55%;
