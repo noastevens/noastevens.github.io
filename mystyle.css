@@ -1,8 +1,3 @@
-header{
-    background-color: rgb(255, 0, 136);
-    text-align: center;
-    padding: 10px;
-}
 
 body{
     background-color: rgb(255, 206, 230);
@@ -58,3 +53,8 @@ ul li a.active {
     margin-left: 20px;
 }
 
+header{
+    background-color: rgb(255, 0, 136);
+    text-align: center;
+    padding: 10px;
+}
