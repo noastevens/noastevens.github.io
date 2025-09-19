@@ -41,7 +41,7 @@ ul li a.active {
     margin: 10px;
 }
 
-.pagina {
+.homepagina {
     height: 80px;
     width: 70%;
     border: 1px solid #010101;
@@ -49,6 +49,9 @@ ul li a.active {
     margin-left: 20px;
 }
 
+.pagina {
+    padding: 20px;
+}
 
 .hometitel{
     margin-left: 20px;
