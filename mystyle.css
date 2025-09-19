@@ -33,18 +33,21 @@ ul li a.active {
 }
 
 
-.foto3{
-    display: flex;
-    gap: 15px;
-    flex-direction: wrap;
-    justify-content: center;
-}
-
-.foto3 img {
-    width: 300px;
-    max-width: 400px;
+.vrienden{
+    float: right;
+    width: 250px;
+    height: 300px;
     object-fit: cover;
     border-radius: 10px;
+    margin: 0 0 15px 15px;
+}
+
+.ik, .gezin {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 10px;
 }
 
 .homepagina {
