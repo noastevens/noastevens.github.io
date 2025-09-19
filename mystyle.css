@@ -42,8 +42,9 @@ ul li a.active {
 
 .foto3 img {
     width: 300px;
-    max-width: 100%;
-    height: auto;
+    max-width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
 }
 
 .homepagina {
