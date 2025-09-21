@@ -74,3 +74,12 @@ header{
     width: 700px;
     height: 500px;
 }
+
+.voorbeeld{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    height: 200px;
+    border: 3px solid #010101;
+}
