@@ -47,6 +47,7 @@ ul li a.active {
     border: 1px solid #010101;
     padding: 20px;
     margin-left: 20px;
+    text-align: justify;
 }
 
 .pagina {
