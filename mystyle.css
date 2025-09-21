@@ -42,11 +42,10 @@ ul li a.active {
 }
 
 .homepagina {
-    height: 80px;
     width: 74%;
     border: 1px solid #010101;
     padding: 20px;
-    margin-left: 20px;
+    margin: 40px auto;
     text-align: justify;
 }
 
