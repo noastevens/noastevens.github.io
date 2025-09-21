@@ -50,9 +50,7 @@ ul li a.active {
 }
 
 .pagina {
-    border: 2px black;
-    border-radius: 12px;
-    padding: 5px;
+    padding: 20px;
 }
 
 .hometitel{
