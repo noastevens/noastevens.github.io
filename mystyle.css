@@ -50,8 +50,9 @@ ul li a.active {
 }
 
 .pagina {
+    width: 74%;
     padding: 20px;
-    margin: 20px;
+    margin: 40px auto;
     text-align: justify;
 }
 
