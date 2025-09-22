@@ -84,6 +84,7 @@ header{
     display: block;
     background-color: #ffffff;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .tekst {
@@ -93,6 +94,7 @@ header{
     display: block;
     margin: 50px auto 0 auto;
     text-align: justify;
+    border-radius: 10px;
 }
 
 .grid-container {
