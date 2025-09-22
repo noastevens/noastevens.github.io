@@ -46,10 +46,6 @@ ul li a.active {
     width: 74%;
     border: 1px solid #010101;
     padding: 20px;
-    margin-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: 0;
     border-radius: 10px;
     text-align: justify;
 }
