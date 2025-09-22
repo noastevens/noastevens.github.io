@@ -45,8 +45,9 @@ ul li a.active {
     height: 100px;
     width: 74%;
     border: 1px solid #010101;
-    padding: 20px 20px;
     margin-left: 20px;
+    padding: 0 20px;
+    line-height: 100px;
     text-align: justify;
 }
 
