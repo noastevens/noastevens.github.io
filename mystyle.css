@@ -83,3 +83,11 @@ header{
     height: 200px;
     border: 3px solid #ffffff;
 }
+
+.tekst {
+    background-color: #ffffff;
+    width: 60%;
+    padding: 50px;
+    display: block;
+    margin: auto;
+}
