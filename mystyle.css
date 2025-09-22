@@ -113,8 +113,13 @@ header{
 }
 
 .grid-item img {
-    display: block;
-    margin: auto;
     max-width: 90%;
     height: auto;
+}
+
+.plaatjekleurmodellen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
 }
