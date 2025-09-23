@@ -44,15 +44,15 @@ ul li a.active {
 }
 
 .homepagina {
-    height: 130px;
-    width: 74%;
-    border: 1px solid #010101;
-    padding: 20px;
-    margin-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-radius: 10px;
-    text-align: justify;
+    height: 130px; /*hoogte van het kader*/
+    width: 74%; /*breedte van het kader*/
+    border: 1px solid #010101; /*dun zwart randje op het tekstvlak*/
+    padding: 20px; /*ruimte binnenin het vak rondom de tekst*/
+    margin-left: 20px; /*extra ruimte links van het vak*/
+    padding-top: 20px; /*extra ruimte bovenin het vak*/
+    padding-bottom: 20px; /*extra ruimte onderin het vak*/
+    border-radius: 10px; /*maakt de hoekjes van de foto rond*/
+    text-align: justify; /*tekst wordt netjes afgesneden*/
 }
 
 .Binair {
