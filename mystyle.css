@@ -124,4 +124,6 @@ header{
 .Compressie {
     border-style: double;
     text-align: justify;
+    padding: 20px;
+    margin: 20px;
 }
