@@ -120,3 +120,8 @@ header{
     max-width: 90%;
     height: auto;
 }
+
+.Compressie {
+    border-style: double;
+    text-align: justify;
+}
