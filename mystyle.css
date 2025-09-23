@@ -1,27 +1,27 @@
 
 body{
-    background-color: rgb(255, 206, 230);
-    color: rgb(0, 0, 0);
+    background-color: rgb(255, 206, 230); /*achtergrond kleur*/
+    color: rgb(0, 0, 0); /*tekstkleur*/
 }
 
 ul{
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: rgb(140, 174, 238);
+list-style-type: none; /*verwijderd de standaard bolletjes*/
+margin: 0; /*haalt de standaard marges weg*/
+padding: 0; /*haalt standaard padding of opvulling weg*/
+overflow: hidden; /*zorgt dat het binnen het venster blijft*/
+background-color: rgb(140, 174, 238); /*achtergrondkleur*/
 }
 
 ul li{
-    float: left;
+    float: left; /*zorgt dat het menu horizontaal wordt aan de linkerkant*/
 }
 
 ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    display: block; /*maakt de link van de pagina een blok*/
+    color: white; /*tekstkleur*/
+    text-align: center; /*tekst in het midden van het blok*/
+    padding: 14px 16px; /*ruimte rondom de tekst*/
+    text-decoration: none; /*
 }
 
 ul li a:hover {
@@ -32,12 +32,12 @@ ul li a.active {
     background-color: black;
 }
 
-/*over mij*/
+/*ik, gezin en vrienden zijn klassen*/
 .ik, .gezin, .vrienden {
-    width: 300px;
-    height: 400px;
+    width: 300px; /*breedte is 300px*/
+    height: 400px; /*hoogte is 400px*/
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 10px; /*maakt de hoekjes van de foto rond*/
     margin: 20px;
 }
 
