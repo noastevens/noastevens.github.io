@@ -24,10 +24,12 @@ ul li a {
     text-decoration: none; /*verwijderd de standaard onderstreping van links*/
 }
 
+/*als je over het menu gaat krijgt die een andere kleur namelijk zwart*/
 ul li a:hover {
    background-color: rgb(0, 0, 0);
 }
 
+/*op de pagina waar je bent krijgt die een andere kleur dan de rest van het menu*/
 ul li a.active {
     background-color: black;
 }
@@ -36,9 +38,9 @@ ul li a.active {
 .ik, .gezin, .vrienden {
     width: 300px; /*breedte is 300px*/
     height: 400px; /*hoogte is 400px*/
-    object-fit: cover;
+    object-fit: cover; /*afbeelding vult het vak zonder vervorming*/
     border-radius: 10px; /*maakt de hoekjes van de foto rond*/
-    margin: 20px;
+    margin: 20px; /*20px ruimte rondom het plaatje*/
 }
 
 .homepagina {
@@ -60,7 +62,6 @@ ul li a.active {
     margin-right: auto;
     text-align: justify;
 }
-
 .hometitel{
     margin-left: 20px;
 }
