@@ -21,7 +21,7 @@ ul li a {
     color: white; /*tekstkleur*/
     text-align: center; /*tekst in het midden van het blok*/
     padding: 14px 16px; /*ruimte rondom de tekst*/
-    text-decoration: none; /*verwijderd de standaard onderstreping*/
+    text-decoration: none; /*verwijderd de standaard onderstreping van links*/
 }
 
 ul li a:hover {
