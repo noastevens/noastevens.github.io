@@ -58,9 +58,9 @@ ul li a.active {
 .Binair {
     padding: 20px;
     width: 60%;
-    margin-left: 0;
-    margin-right: auto;
-    text-align: justify;
+    margin-left: 0; /*geen marge links*/
+    margin-right: auto; /*automatische uitlijning rechts*/
+    text-align: justify; /*tekst wordt netjes afgesneden*/
 }
 .hometitel{
     margin-left: 20px;
@@ -68,7 +68,7 @@ ul li a.active {
 
 header{
     background-color: rgb(255, 0, 136);
-    text-align: center;
+    text-align: center; /*tekst en inhoud in het midden*/
     padding: 10px;
 }
 
@@ -78,12 +78,12 @@ header{
 }
 
 .voorbeeld{
-    position: fixed;
-    bottom: 0;
-    right: 0;
+    position: fixed; /*vak blijft op dezelfde plek scrollen*/
+    bottom: 0; /*uitgelijnd tegen de onderkant van het scherm*/
+    right: 0; /*uitgelijnd tegen de rechterkant van het scherm*/
     width: 350px;
     height: 200px;
-    display: block;
+    display: block; /*blokweergave*/
     background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
@@ -100,8 +100,8 @@ header{
 }
 
 .grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
+    display: grid; /*gebruikt grid layout en dat zijn dus kolommen*/
+    grid-template-columns: auto auto; /*twee kolommen naast elkaar*/
     gap: 20px;
     padding: 20px;
 }
