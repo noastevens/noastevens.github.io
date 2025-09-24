@@ -130,7 +130,7 @@ header{
 }
 
 .Compressieplaatje {
-    float: right;
+    float: right; /*zet het element rechts in de tekst*/
     width: 40%;
     margin-left: 20px;
 }
