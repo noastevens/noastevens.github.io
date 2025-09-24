@@ -103,28 +103,28 @@ header{
     display: grid; /*gebruikt grid layout en dat zijn dus kolommen*/
     grid-template-columns: auto auto; /*twee kolommen naast elkaar*/
     gap: 20px; /*ruimte tussen de kolommen*/
-    padding: 20px;
+    padding: 20px; /*ruimte binnen de kolommen*/
 }
 
 .grid-item {
     background-color: #ffffff;
-    border: 1px solid #ccc;
+    border: 1px solid #ccc; /*grijze rand rondom de kolom*/
     padding: 20px;
-    font-size: 16px;
+    font-size: 16px; /*standaard lettergrootte*/
     border-radius: 10px;
     text-align: justify;
 }
 
 .grid-item img {
-    display: block;
-    margin: auto;
-    max-width: 90%;
-    height: auto;
+    display: block; /*afbeelding als blok element*/
+    margin: auto; /*afbeelding centreren*/
+    max-width: 90%; /*afbeelding wordt niet breder dan 90%*/
+    height: auto; /*hoogte gaat mee op de breedte, schaalt mee*/
 }
 
 .Compressie {
-    border-style: double;
+    border-style: double; /*dubbele rand rondom het element*/
     text-align: justify;
-    padding: 20px;
-    margin: 20px;
+    padding: 20px; /*ruimte binnen het element*/
+    margin: 20px; /*ruimte buiten het element*/
 }
