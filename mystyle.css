@@ -58,7 +58,7 @@ ul li a.active {
 .Binair {
     padding: 20px;
     width: 60%;
-    margin-left: 0; /*geen marge links*/
+    margin-left: 0; /*geen ruimte links*/
     margin-right: auto; /*automatische uitlijning rechts*/
     text-align: justify; /*tekst wordt netjes afgesneden*/
 }
@@ -132,7 +132,7 @@ header{
 .Compressieplaatje {
     float: right; /*zet het element rechts in de tekst*/
     width: 40%;
-    margin-left: 20px;
+    margin-left: 20px; /*ruimte links tussen plaatje en tekst*/
 }
 
 .vectorvsbitmap {
