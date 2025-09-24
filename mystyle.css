@@ -34,7 +34,7 @@ ul li a.active {
     background-color: black;
 }
 
-/*ik, gezin en vrienden zijn klassen*/
+/*ik, gezin en vrienden zijn classen*/
 .ik, .gezin, .vrienden {
     width: 300px; /*breedte is 300px*/
     height: 400px; /*hoogte is 400px*/
