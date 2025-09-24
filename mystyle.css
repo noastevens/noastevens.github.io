@@ -102,7 +102,7 @@ header{
 .grid-container {
     display: grid; /*gebruikt grid layout en dat zijn dus kolommen*/
     grid-template-columns: auto auto; /*twee kolommen naast elkaar*/
-    gap: 20px;
+    gap: 20px; /*ruimte tussen de kolommen*/
     padding: 20px;
 }
 
