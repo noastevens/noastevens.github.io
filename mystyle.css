@@ -128,3 +128,7 @@ header{
     padding: 20px; /*ruimte binnen het element*/
     margin: 20px; /*ruimte buiten het element*/
 }
+
+.Compressieplaatje {
+    float: right;
+}
