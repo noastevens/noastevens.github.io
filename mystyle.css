@@ -134,3 +134,8 @@ header{
     width: 40%;
     margin-left: 20px;
 }
+
+.vectorvsbitmap {
+    width: 75%;
+    align-items: center;
+}
