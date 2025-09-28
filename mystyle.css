@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(255, 206, 230); /*achtergrond kleur*/
+    background-color: rgb(248, 214, 230); /*achtergrond kleur*/
     color: rgb(0, 0, 0); /*tekstkleur*/
 }
 
@@ -67,7 +67,7 @@ ul li a.active {
 }
 
 header{
-    background-color: rgb(255, 0, 136);
+    background-color: rgb(255, 52, 160);
     text-align: center; /*tekst en inhoud in het midden*/
     padding: 10px;
 }
