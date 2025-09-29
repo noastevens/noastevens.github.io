@@ -99,6 +99,7 @@ header{
     border-radius: 10px;
 }
 
+/*gaat over alle 4 de stukjes tekst en zorgt voor 4 verschillende kolommen*/
 .grid-container {
     display: grid; /*gebruikt grid layout en dat zijn dus kolommen*/
     grid-template-columns: auto auto; /*twee kolommen naast elkaar*/
@@ -106,6 +107,7 @@ header{
     padding: 20px; /*ruimte binnen de kolommen*/
 }
 
+/*gaat over de kolom zelf*/
 .grid-item {
     background-color: #ffffff;
     border: 1px solid #ccc; /*grijze rand rondom de kolom*/
@@ -115,6 +117,7 @@ header{
     text-align: justify;
 }
 
+/*gaat over de afbeelding in de kolom*/
 .grid-item img {
     display: block; /*afbeelding als blok element*/
     margin: auto; /*afbeelding centreren*/
